@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Ishita Bhojani 👋
+### I'm a BTech student in AI & ML, passionate about building smart and impactful solutions. Exploring real-world challenges through projects, research, and innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishitabhojani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IshitaBhojani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishitabhojani2810@gmail.com) 
